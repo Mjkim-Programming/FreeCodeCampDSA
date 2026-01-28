@@ -25,6 +25,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 4963 섬의 개수</li>
     <li>BOJ 2583 영역 구하기</li>
     <li>BOJ 2644 촌수계산</li>
+    <li>BOJ 1926 그림</li>
 </ul>
 
 ### Disjoint Set
