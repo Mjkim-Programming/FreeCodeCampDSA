@@ -20,6 +20,11 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 11724 연결 요소의 개수</li>
     <li>BOJ 10026 적록색약</li>
     <li>BOJ 1987 알파벳</li>
+    <li>BOJ 11725 트리의 부모 찾기</li>
+    <li>BOJ 2468 안전 영역</li>
+    <li>BOJ 4963 섬의 개수</li>
+    <li>BOJ 2583 영역 구하기</li>
+    <li>BOJ 2644 촌수계산</li>
 </ul>
 
 ### Disjoint Set
