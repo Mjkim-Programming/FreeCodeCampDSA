@@ -48,3 +48,8 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
 <ul>
     <li>Template for sparse set(O(log n) query)</li>
 </ul>
+
+### Geometry
+<ul>
+    <li>BOJ 3959 스키 점프</li>
+</ul>
