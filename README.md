@@ -28,6 +28,16 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 1926 그림</li>
 </ul>
 
+#### BFS
+<ul>
+    <li>BOJ 2178 미로 탐색</li>
+    <li>BOJ 7576 토마토</li>
+    <li>BOJ 7562 나이트의 이동</li>
+    <li>BOJ 13549 숨바꼭질 3</li>
+    <li>BOJ 1697 숨바꼭질</li>
+    <li>BOJ 13913 숨바꼭질 4</li>
+</ul>
+
 ### Disjoint Set
 <ul>
     <li>Template for disjoint set</li>
