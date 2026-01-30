@@ -53,4 +53,5 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
 ### Geometry
 <ul>
     <li>BOJ 3959 스키 점프</li>
+    <li>BOJ 2699 격자점 컨벡스헐</li>
 </ul>
