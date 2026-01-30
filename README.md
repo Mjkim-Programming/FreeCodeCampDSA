@@ -39,6 +39,12 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 7569 토마토</li>
 </ul>
 
+#### Topological Sort
+<ul>
+    <li>BOJ 1005 ACM Craft</li>
+    <li>BOJ 2252 줄세우기</li>
+</ul>
+
 ### Disjoint Set
 <ul>
     <li>Template for disjoint set</li>
