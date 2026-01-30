@@ -36,6 +36,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 13549 숨바꼭질 3</li>
     <li>BOJ 1697 숨바꼭질</li>
     <li>BOJ 13913 숨바꼭질 4</li>
+    <li>BOJ 7569 토마토</li>
 </ul>
 
 ### Disjoint Set
