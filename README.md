@@ -43,6 +43,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
 <ul>
     <li>BOJ 1005 ACM Craft</li>
     <li>BOJ 2252 줄세우기</li>
+    <li>BOJ 2623 음악프로그램</li>
 </ul>
 
 ### Disjoint Set
