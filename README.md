@@ -62,3 +62,9 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 3959 스키 점프</li>
     <li>BOJ 2699 격자점 컨벡스헐</li>
 </ul>
+
+### DP
+#### Knapsack
+<ul>
+    <li>BOJ 7579 앱</li>
+</ul>
