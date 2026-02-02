@@ -33,6 +33,27 @@ class Graph:
                     dist[v] = nd
                     heapq.heappush(hq, (nd, v))
         return dist
+    def LazyDijkstraToSNode(self, at, to):
+        if not self.zb:
+            at = at - 1
+        if not self.zb:
+            to = to - 1
+        hq = []
+        dist = [float('INF')]*self.n
+        dist[at] = 0
+        heapq.heappush(hq, (0, at))
+        while hq:
+            cd, u = heapq.heappop(hq)
+            if cd > dist[u]:
+                continue
+            for w, v in self.adj[u]:
+                nd = cd + w
+                if nd < dist[v]:
+                    dist[v] = nd
+                    heapq.heappush(hq, (nd, v))
+            if u == to:
+                return dist[to]
+        return float('INF')
     def LazyMinRoute(self, at):
         if not self.zb:
             at = at - 1

@@ -37,6 +37,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 1697 숨바꼭질</li>
     <li>BOJ 13913 숨바꼭질 4</li>
     <li>BOJ 7569 토마토</li>
+    <li>BOJ 12851 숨바꼭질2</li>
 </ul>
 
 #### Topological Sort
@@ -54,6 +55,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 11779 최소 경로 구하기 2</li>
     <li>BOJ 4485 녹색 옷 입은 애가 젤다지?</li>
     <li>BOJ 1261 알고스팟</li>
+    <li>BOJ 1916 최소비용 구하기</li>
 </ul>
 
 ### Disjoint Set
@@ -77,4 +79,9 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
 #### Knapsack
 <ul>
     <li>BOJ 7579 앱</li>
+</ul>
+
+### Math
+<ul>
+    <li>BOJ 22940 선형 연립 방정식</li>
 </ul>
