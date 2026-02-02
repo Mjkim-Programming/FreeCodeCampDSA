@@ -1,4 +1,6 @@
+import sys
 import heapq
+input=sys.stdin.readline
 class Graph:
     def __init__(self, n, zb):
         """
@@ -32,3 +34,14 @@ class Graph:
                     dist[v] = nd
                     heapq.heappush(hq, (nd, v))
         return dist
+n, m, x = map(int, input().split())
+graph = Graph(n, False)
+revGraph = Graph(n, False)
+for _ in range(m):
+    u, v, w = map(int, input().split())
+    graph.add_edge(u, v, w)
+    revGraph.add_edge(v, u, w)
+dist1 = graph.LazyDijkstra(x)
+dist2 = revGraph.LazyDijkstra(x)
+dist = [dist1[i]+dist2[i] for i in range(n)]
+print(max(dist))

@@ -46,6 +46,12 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 2623 음악프로그램</li>
 </ul>
 
+#### Dijkstra
+<ul>
+    <li>BOJ 1238 파티</li>
+    <li>BOJ 1753 최단경로</li>
+</ul>
+
 ### Disjoint Set
 <ul>
     <li>Template for disjoint set</li>
