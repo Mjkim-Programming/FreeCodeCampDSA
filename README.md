@@ -9,6 +9,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 24052 Blobsad</li>
     <li>Largest Permutation</li>
     <li>Meeting Rooms</li>
+    <li>BOJ 21761 초직사각형</li>
 </ul>
 
 ### Graphs
