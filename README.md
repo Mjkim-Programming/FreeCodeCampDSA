@@ -63,6 +63,7 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
 <ul>
     <li>BOJ 1865 웜홀</li>
     <li>BOJ 11657 타임머신</li>
+    <li>BOJ 1219 오민식의 고민</li>
 </ul>
 
 ### Disjoint Set
