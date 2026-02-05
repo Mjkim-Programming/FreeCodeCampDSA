@@ -64,6 +64,8 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 1865 웜홀</li>
     <li>BOJ 11657 타임머신</li>
     <li>BOJ 1219 오민식의 고민</li>
+    <li>BOJ 1738 골목길</li>
+    <li>BOJ 10217 KCM Travel</li>
 </ul>
 
 ### Disjoint Set
