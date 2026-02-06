@@ -103,4 +103,6 @@ This is the code I wrote while studying topics with freecodecamp & for my own.
     <li>BOJ 22940 선형 연립 방정식</li>
     <li>BOJ 11440 피보나치 수의 제곱의 합</li>
     <li>BOJ 11778 피보나치 수와 최대공약수</li>
+    <li>BOJ 9206 나무 말고 꽃</li>
+    <li>BOJ 18949 Intersection of Parabolas</li>
 </ul>
